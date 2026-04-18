@@ -64,4 +64,4 @@ This project follows a **client-server architecture**:
 ### 🔸 Backend (Spring Boot)
 1. Open project in Eclipse / IntelliJ
 2. Run the main class
-3. Server runs at:
+
